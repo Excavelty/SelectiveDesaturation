@@ -1,4 +1,5 @@
-#SelectiveDesaturation
-Code of students' project I took part in following description: http://www.fis.agh.edu.pl/~malinowski/GFK/files/46.pdf.
+# Selective Image Desaturation
 
-CImg library (CImg.h file) and wxWidgets were used in the project.
+Code of students' project which aim was to create simple app allowing user to do selective image desaturation (description: http://www.fis.agh.edu.pl/~malinowski/GFK/files/46.pdf).
+
+CImg library (*CImg.h* file) and wxWidgets were used in the project.
